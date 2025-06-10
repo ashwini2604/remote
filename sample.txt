@@ -1,2 +1,6 @@
 hii this is deveops lab
+<<<<<<< HEAD
 hloo world
+=======
+hloo world
+>>>>>>> 8348126e167244a1076802a2e312b1b4fcf8ad11
